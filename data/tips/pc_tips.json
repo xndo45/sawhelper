@@ -1,0 +1,268 @@
+[
+    {
+        "title": "Slow Performance",
+        "description": "Is your computer running slow? Try cleaning up your hard drive, uninstalling unnecessary programs, and running a virus scan to improve performance. Regular maintenance can keep your system running smoothly.",
+        "category": "pc",
+        "steps": [
+            "Clean up temporary files using Disk Cleanup.",
+            "Uninstall unnecessary programs.",
+            "Run a full virus scan.",
+            "Check for and install any available updates."
+        ]
+    },
+    {
+        "title": "Internet Connectivity Issues",
+        "description": "Having trouble with your internet connection? Restart your router, check your network settings, and ensure your drivers are up to date. Switching to a wired connection can also improve stability.",
+        "category": "pc",
+        "steps": [
+            "Restart your router and modem.",
+            "Verify your network settings.",
+            "Update your network drivers.",
+            "Try using a wired connection instead of Wi-Fi."
+        ]
+    },
+    {
+        "title": "Software Crashes",
+        "description": "Is your software crashing frequently? Ensure that your software is updated to the latest version, check for system compatibility, and reinstall if necessary.",
+        "category": "pc",
+        "steps": [
+            "Update the software to the latest version.",
+            "Check system requirements and compatibility.",
+            "Reinstall the software.",
+            "Run the program in compatibility mode."
+        ]
+    },
+    {
+        "title": "Overheating",
+        "description": "Is your PC overheating? Clean out dust from your PC, ensure proper ventilation, and consider adding more cooling solutions.",
+        "category": "pc",
+        "steps": [
+            "Clean out dust from the interior and fans.",
+            "Ensure the PC is in a well-ventilated area.",
+            "Add additional cooling solutions like fans or liquid cooling."
+        ]
+    },
+    {
+        "title": "Blue Screen of Death (BSOD)",
+        "description": "Encountering a Blue Screen of Death? Note the error code, update your drivers, and check for hardware issues.",
+        "category": "pc",
+        "steps": [
+            "Note the BSOD error code.",
+            "Update all drivers.",
+            "Run a memory check using Windows Memory Diagnostic.",
+            "Check for hardware issues like faulty RAM or hard drive."
+        ]
+    },
+    {
+        "title": "Slow Game Performance",
+        "description": "Is your game running slow on your console? Clear your cache, close background applications, and ensure your console is updated.",
+        "category": "console",
+        "steps": [
+            "Clear the console's cache.",
+            "Close any background applications.",
+            "Check for and install system updates."
+        ]
+    },
+    {
+        "title": "Network Connectivity Issues",
+        "description": "Having network issues on your console? Restart your router, check your network settings, and use a wired connection for better stability.",
+        "category": "console",
+        "steps": [
+            "Restart your router and modem.",
+            "Check your console's network settings.",
+            "Use a wired Ethernet connection."
+        ]
+    },
+    {
+        "title": "Disc Reading Errors",
+        "description": "Is your console having trouble reading discs? Clean the disc, ensure it's not scratched, and try another disc to rule out console issues.",
+        "category": "console",
+        "steps": [
+            "Clean the disc with a soft cloth.",
+            "Check for scratches or damage.",
+            "Try a different disc to see if the problem persists."
+        ]
+    },
+    {
+        "title": "Controller Issues",
+        "description": "Controller not responding? Reset the controller, update its firmware, and check the batteries or charging cable.",
+        "category": "console",
+        "steps": [
+            "Reset the controller by pressing the reset button.",
+            "Update the controller's firmware.",
+            "Check and replace the batteries or charging cable."
+        ]
+    },
+    {
+        "title": "Overheating",
+        "description": "Is your console overheating? Ensure it's in a well-ventilated area, clean the vents, and avoid placing it on soft surfaces.",
+        "category": "console",
+        "steps": [
+            "Place the console in a well-ventilated area.",
+            "Clean the vents to remove dust.",
+            "Avoid placing the console on soft surfaces like carpets or beds."
+        ]
+    },
+
+
+    {
+        "title": "Snap Windows Using Keyboard",
+        "description": "Quickly organize open windows by snapping them to screen edges using keyboard shortcuts.",
+        "category": "pc",
+        "steps": [
+            "Press Win + Right Arrow, then Win + Up Arrow to snap the window to the top-right corner."
+        ]
+    },
+    {
+        "title": "Enhance Touch Compatibility",
+        "description": "Activate the touch-friendly interface on touch-enabled devices for easier navigation.",
+        "category": "pc",
+        "steps": [
+            "Go to Start > Settings > System > Tablet Mode to enable touch-friendly features."
+        ]
+    },
+    {
+        "title": "Secure Wi-Fi Settings",
+        "description": "Improve your Wi-Fi security by managing Wi-Fi Sense settings.",
+        "category": "pc",
+        "steps": [
+            "Navigate to Start > Settings > Network & Internet > Wi-Fi > Manage Wi-Fi settings to disable Wi-Fi Sense."
+        ]
+    },
+    {
+        "title": "Adjust Privacy Settings",
+        "description": "Control app permissions and hardware access to enhance privacy.",
+        "category": "pc",
+        "steps": [
+            "Access Start > Settings > Privacy to customize privacy settings for apps and hardware."
+        ]
+    },
+    {
+        "title": "Optimize Battery Usage",
+        "description": "Extend battery life by adjusting the Battery Saver settings on your PC.",
+        "category": "pc",
+        "steps": [
+            "Activate Battery Saver from the battery icon on the taskbar to conserve energy."
+        ]
+    },
+    {
+        "title": "Perform Regular Malware Scans",
+        "description": "Keep your PC safe from malware by performing regular scans.",
+        "category": "pc",
+        "steps": [
+            "Use Windows Security to run virus scans and check for security updates regularly."
+        ]
+    },
+    {
+        "title": "Shake to Minimize",
+        "description": "Quickly minimize all open windows except the active one using a simple mouse gesture.",
+        "category": "pc",
+        "steps": [
+            "Click and hold the title bar of the window you want to keep open and shake it."
+        ]
+    },
+    {
+        "title": "Quick Access to Settings",
+        "description": "Access the Settings app quickly using a simple keyboard shortcut.",
+        "category": "pc",
+        "steps": [
+            "Press Windows Key + I to open the Settings app directly."
+        ]
+    },
+    {
+        "title": "Efficient Screen Capture",
+        "description": "Capture your screen efficiently using built-in shortcuts.",
+        "category": "pc",
+        "steps": [
+            "Press Windows Key + PrtScn to take a screenshot and save it automatically."
+        ]
+    },
+    {
+        "title": "Manage Display Settings Quickly",
+        "description": "Easily manage your display settings for multiple monitors.",
+        "category": "pc",
+        "steps": [
+            "Use Windows Key + P to switch between display modes like extend and duplicate."
+        ]
+    },
+    {
+        "title": "Customize the Start Menu",
+        "description": "Personalize the Start menu to better suit your preferences.",
+        "category": "pc",
+        "steps": [
+            "Open Settings, go to Personalization > Start, and adjust visibility settings for apps and folders."
+        ]
+    },
+    {
+        "title": "Access Expanded Right-Click Menu",
+        "description": "Access more options in the right-click context menu.",
+        "category": "pc",
+        "steps": [
+            "Press Shift + F10 to open the old-style context menu in Windows Explorer."
+        ]
+    },
+    {
+        "title": "Use Virtual Desktops",
+        "description": "Enhance productivity by organizing apps and windows across multiple virtual desktops.",
+        "category": "pc",
+        "steps": [
+            "Press Win + Tab to open the Task View pane and manage virtual desktops."
+        ]
+    },
+    {
+        "title": "Adjust Taskbar Alignment",
+        "description": "Customize the alignment and appearance of your taskbar in Windows.",
+        "category": "pc",
+        "steps": [
+            "Go to Settings > Personalization > Taskbar to adjust the taskbar alignment and settings."
+        ]
+    },
+    {
+        "title": "Check Keyboard Shortcuts",
+        "description": "Learn and utilize keyboard shortcuts to enhance your productivity.",
+        "category": "pc",
+        "steps": [
+            "Familiarize yourself with essential Windows keyboard shortcuts for efficient navigation."
+        ]
+    },
+    {
+        "title": "Monitor SSD Health",
+        "description": "Keep an eye on the health of your SSD to avoid data loss.",
+        "category": "pc",
+        "steps": [
+            "Use tools to check the health and remaining lifespan of your SSD regularly."
+        ]
+    },
+    {
+        "title": "Track Internet Activity",
+        "description": "Monitor your internet activity to maintain security and manage bandwidth.",
+        "category": "pc",
+        "steps": [
+            "Use Windows Firewall logs to track and monitor incoming and outgoing traffic."
+        ]
+    },
+    {
+        "title": "Enable Administrator Account",
+        "description": "Enable the hidden administrator account for full control over the system.",
+        "category": "pc",
+        "steps": [
+            "Activate the built-in administrator account through User Accounts in the Control Panel for advanced management."
+        ]
+    },
+    {
+        "title": "Optimize Taskbar Space",
+        "description": "Maximize taskbar space by customizing its features.",
+        "category": "pc",
+        "steps": [
+            "Right-click the taskbar, select Cortana, and adjust visibility settings to reclaim space."
+        ]
+    },
+    {
+        "title": "Simultaneously Resize Snapped Windows",
+        "description": "Efficiently manage your workspace by resizing snapped windows together.",
+        "category": "pc",
+        "steps": [
+            "Drag the dividing border between two snapped windows to resize them simultaneously."
+        ]
+    }
+]

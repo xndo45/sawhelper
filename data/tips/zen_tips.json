@@ -1,0 +1,229 @@
+[
+    {
+        "title": "Error E1",
+        "description": "This error indicates that your device is not being recognized by your PC. Make sure you have installed the correct drivers for your device.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E2",
+        "description": "This error is related to the USB connection. Try using a different USB cable or port. Ensure the cable is data-capable, not just a charging cable.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E3",
+        "description": "This error means the device's firmware is outdated. Update the firmware using the latest version from the Cronus website.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E4",
+        "description": "This error suggests a problem with the power supply. Ensure the device is properly connected to a reliable power source.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E5",
+        "description": "This error indicates a communication failure between the device and the console. Ensure the console and device are properly connected and restart both devices.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E6",
+        "description": "This error is related to overheating. Allow the device to cool down and ensure it is placed in a well-ventilated area.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E7",
+        "description": "This error points to a problem with the device's internal memory. Try resetting the device to factory settings.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Error E8",
+        "description": "This error means the device is not receiving enough power. Ensure you are using the correct power adapter and that it is functioning properly.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Firmware Updates",
+        "description": "Always keep your device's firmware up to date. Check the Cronus website regularly for the latest firmware updates and follow the instructions to install them.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Proper Connections",
+        "description": "Ensure all cables and connections are secure and properly connected. Loose connections can lead to various errors and performance issues.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Cooling and Ventilation",
+        "description": "Keep your device in a cool, well-ventilated area to prevent overheating. Overheating can cause performance issues and errors.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Regular Maintenance",
+        "description": "Perform regular maintenance on your device, such as cleaning the ports and checking for firmware updates, to ensure optimal performance.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Hard Reset: Why It's Needed",
+        "description": "A hard reset can resolve various issues with your device, such as firmware glitches, connection problems, or unresponsive behavior. It essentially resets your device to its default state without affecting your stored data.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Steps for Hard Reset",
+        "description": "Follow these steps to perform a hard reset on your device.",
+        "category": "zen",
+        "steps": [
+            "Disconnect all cables from your device.",
+            "Press and hold the reset button on your device.",
+            "While holding the reset button, reconnect the power cable.",
+            "Continue holding the reset button for about 10 seconds until the device resets."
+        ]
+    },
+    {
+        "title": "Troubleshooting After Hard Reset",
+        "description": "If the device is still not functioning properly after a hard reset, ensure that all connections are secure and the correct firmware is installed. If problems persist, consider contacting support for further assistance.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Hard Reset for Cronus Zen",
+        "description": "To perform a hard reset on a Cronus Zen device.",
+        "category": "zen",
+        "steps": [
+            "Disconnect all cables from the Zen.",
+            "Hold down the blue reset button.",
+            "While holding the button, reconnect the power cable.",
+            "Release the button after 10 seconds. The Zen will reboot and reset."
+        ]
+    },
+    {
+        "title": "Resetting to Factory Settings",
+        "description": "Resetting your device to factory settings can resolve persistent issues by clearing all configurations and returning the device to its original state. Note that this will erase all custom settings.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "Important Notes on Hard Reset",
+        "description": "Always ensure your device is powered off before performing a hard reset. Follow the steps carefully to avoid potential damage to your device.",
+        "category": "zen",
+        "steps": []
+    },
+    {
+        "title": "GamePack Configuration",
+        "description": "Easily configure GamePacks in Zen Studio. Drag and drop your selected GamePack into a slot, adjust settings via the GCI, and export configurations for easy reloading.",
+        "category": "zen",
+        "steps": [
+            "Open Zen Studio and navigate to the Programmer tab.",
+            "Drag and drop the GamePack to an available slot.",
+            "Adjust settings in the GamePack Configuration Interface.",
+            "Export the settings for later use."
+        ]
+    },
+    {
+        "title": "Mouse & Keyboard Setup",
+        "description": "Set up your mouse and keyboard for console gaming. Customize DPI, mouse speed, and key bindings to emulate PC gaming controls.",
+        "category": "zen",
+        "steps": [
+            "Connect your mouse and keyboard to the Zen.",
+            "Open Zen Studio and adjust the DPI settings, mouse speed, and key bindings.",
+            "Ensure all peripherals are properly mapped and calibrated."
+        ]
+    },
+    {
+        "title": "Firmware Update",
+        "description": "Keep your Cronus Zen up to date with the latest firmware to ensure compatibility and functionality.",
+        "category": "zen",
+        "steps": [
+            "Connect your Zen to a computer via the CONSOLE/PC USB port.",
+            "Press and hold the blue reset button until 'Zen Bootloader' appears on the OLED screen.",
+            "Open Zen Studio and select Tools > Firmware Update.",
+            "Follow the prompts to complete the firmware update."
+        ]
+    },
+    {
+        "title": "Controller Compatibility",
+        "description": "Ensure your controller is compatible with Cronus Zen and set up appropriately for your gaming platform.",
+        "category": "zen",
+        "steps": [
+            "Check controller compatibility with Cronus Zen.",
+            "Connect the controller using the appropriate method (USB, Bluetooth, or Wireless Adapter).",
+            "Configure controller settings in Zen Studio as needed."
+        ]
+    },
+    {
+        "title": "Troubleshooting Hardware Errors",
+        "description": "Solve common hardware errors by checking connections and ensuring compatible hardware usage.",
+        "category": "zen",
+        "steps": [
+            "Check that all USB cables are properly connected and functional.",
+            "Ensure that no Scripts or GamePacks are loaded if experiencing issues.",
+            "Check device compatibility and connection ports."
+        ]
+    },
+    {
+        "title": "Firmware and Software Updates",
+        "description": "Keeping the firmware and Zen Studio software updated is crucial to avoid many known issues such as controller disconnections and game compatibility problems.",
+        "category": "zen",
+        "steps": [
+            "Always ensure your Zen firmware and Zen Studio are updated to the latest versions.",
+            "Check for updates regularly in the Zen Studio under the 'Updates' tab."
+        ]
+    },
+    {
+        "title": "Handling Firmware Errors",
+        "description": "Resolve common firmware issues to ensure optimal performance of your Cronus Zen.",
+        "category": "zen",
+        "steps": [
+            "If encountering a 'No Devices Found' error, ensure the USB cable is properly connected.",
+            "Consider using a powered USB hub if your PC USB port isn't supplying enough power.",
+            "Check the Firmware Troubleshooting Guide for detailed steps."
+        ]
+    },
+    {
+        "title": "Zen Studio Errors",
+        "description": "Address common Zen Studio software issues that may affect your setup.",
+        "category": "zen",
+        "steps": [
+            "If Zen Studio freezes on the Programmer panel, reset Zen Studio or ensure no conflicting software is running.",
+            "Address file writing errors by reinstalling Zen Studio to the latest version after uninstalling the previous one."
+        ]
+    },
+    {
+        "title": "Controller Compatibility",
+        "description": "Ensure that your controller is compatible and properly set up with Cronus Zen.",
+        "category": "zen",
+        "steps": [
+            "Verify controller support in the Zen Studio Device Panel.",
+            "For Nintendo Switch, enable 'Pro Controller Wired Communication' in system settings."
+        ]
+    },
+    {
+        "title": "USB and Bluetooth Support",
+        "description": "Understand the USB and Bluetooth support for your controllers with Cronus Zen.",
+        "category": "zen",
+        "steps": [
+            "Check if your controller supports USB only or both USB and Bluetooth.",
+            "Select the correct mode in Zen Studio for optimal functionality."
+        ]
+    },
+    {
+        "title": "Mouse and Keyboard Support",
+        "description": "Ensure your mouse and keyboard are supported and correctly configured in Zen Studio.",
+        "category": "zen",
+        "steps": [
+            "Refer to the supported device list in Zen Studio to ensure compatibility.",
+            "Configure your mouse and keyboard settings in Zen Studio for optimal performance."
+        ]
+    }
+    
+    
+]

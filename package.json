@@ -1,0 +1,45 @@
+{
+  "name": "sawhub-helper",
+  "version": "1.0.0",
+  "description": "Helper bot for Sawhub, handling notifications, reminders, and utilities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --name 'sawhub-helper'",
+    "dev": "nodemon index.js",
+    "stop": "pm2 stop 'sawhub-helper'",
+    "restart": "pm2 restart 'sawhub-helper'",
+    "logs": "pm2 logs 'sawhub-helper'"
+  },
+  "dependencies": {
+    "@discordjs/builders": "latest",
+    "@discordjs/collection": "latest",
+    "@discordjs/formatters": "latest",
+    "@discordjs/rest": "latest",
+    "@sapphire/framework": "latest",
+    "@sapphire/plugin-logger": "latest",
+    "@sapphire/time-utilities": "latest",
+    "axios": "latest",
+    "chalk": "latest",
+    "date-fns": "^3.6.0",
+    "discord.js": "latest",
+    "dotenv": "latest",
+    "glob": "latest",
+    "ioredis": "latest",
+    "lodash": "latest",
+    "node-cron": "latest",
+    "winston": "latest"
+  },
+  "devDependencies": {
+    "nodemon": "latest",
+    "prettier": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xndo45/sawhelper.git"
+  },
+  "author": "Xndo <xndo4533@gmail.com>",
+  "license": "MIT"
+}

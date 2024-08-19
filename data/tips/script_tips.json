@@ -1,0 +1,171 @@
+[
+    {
+        "title": "Sticky Fingers COD: AA and AI Bot Scan",
+        "description": "Enhance your gaming experience with advanced AA and AI Bot Scan features.",
+        "category": "script",
+        "steps": [
+            "AA and AI Bot Scan: Utilize advanced anti-recoil and aim assist capabilities with injected AI bot scanning."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Adjust Anti Recoil",
+        "description": "Adjust the anti-recoil settings for a smoother gameplay experience.",
+        "category": "script",
+        "steps": [
+            "Hold Melee, Press Up or Down to adjust Anti Recoil."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Adjust Aim Assist Size",
+        "description": "Customize the aim assist size to suit your gameplay style.",
+        "category": "script",
+        "steps": [
+            "Hold Melee, Press Left or Right to adjust Aim Assist size."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Miscellaneous Controls",
+        "description": "Access additional features like YY Spam and Slide Cancel.",
+        "category": "script",
+        "steps": [
+            "Hold L3, Press Up for YY Spam.",
+            "Hold L3, Press Down for Slide Cancel."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Drive Mode",
+        "description": "Activate Drive Mode for enhanced mobility.",
+        "category": "script",
+        "steps": [
+            "Hold Right, Press Aim to activate Drive Mode.",
+            "Press X/A to deactivate Drive Mode."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Zombie Aim and Auto Aim",
+        "description": "Enable specialized aiming modes for different scenarios.",
+        "category": "script",
+        "steps": [
+            "Hold L3, Press Left for Zombie Aim.",
+            "Hold L3, Press Right for Auto Aim."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Display Mod Status",
+        "description": "Check the status of your mods easily.",
+        "category": "script",
+        "steps": [
+            "On Map button press to display mod status."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Rapid Fire Quick Toggle",
+        "description": "Quickly toggle Rapid Fire mode on or off.",
+        "category": "script",
+        "steps": [
+            "Hold Aim, Press D-pad Right to turn Rapid Fire On or Off.",
+            "Hold Aim, Press D-pad Down to turn Rapid Fire On or Off."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Choose Button Layout (PS4)",
+        "description": "Customize your button layout for PS4.",
+        "category": "script",
+        "steps": [
+            "Hold Menu, Hold Square, Hold Cross, Press Up or Down to choose button layout."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Choose Button Layout (Xbox)",
+        "description": "Customize your button layout for Xbox.",
+        "category": "script",
+        "steps": [
+            "Hold Options, Hold X, Hold A, Press Up or Down to choose button layout."
+        ]
+    },
+    {
+        "title": "Sticky Fingers COD: Save Settings",
+        "description": "Ensure your settings are saved for future sessions.",
+        "category": "script",
+        "steps": [
+            "Make sure you save settings by holding Melee and pressing Aim."
+        ]
+    },
+
+    {
+        "title": "Sticky Fingers Fortnite: AA and AI Bot Scan",
+        "description": "Enhance your Fortnite experience with advanced AA and AI Bot Scan features.",
+        "category": "script",
+        "steps": [
+            "AA and AI Bot Scan: Utilize advanced anti-recoil and aim assist capabilities with injected AI bot scanning."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Adjust Anti Recoil",
+        "description": "Adjust the anti-recoil settings for smoother gameplay.",
+        "category": "script",
+        "steps": [
+            "Hold R3, Press Up or Down to adjust Anti Recoil."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Adjust Aim Assist Size",
+        "description": "Customize the aim assist size to suit your gameplay style.",
+        "category": "script",
+        "steps": [
+            "Hold R3, Press Left or Right to adjust Aim Assist size."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Build Mode and Insta Reset",
+        "description": "Access additional features like Build Mode and Insta Reset.",
+        "category": "script",
+        "steps": [
+            "Hold L3, Press Up for Build Mode.",
+            "Hold L3, Press Down for Insta Reset."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Drive Mode",
+        "description": "Activate Drive Mode for enhanced mobility.",
+        "category": "script",
+        "steps": [
+            "Hold Right, Press L2 to activate Drive Mode.",
+            "Press X/A to deactivate Drive Mode."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Insta Swap and Insta Pick Up",
+        "description": "Enable specialized actions for quick item management.",
+        "category": "script",
+        "steps": [
+            "Hold L3, Press Left for Insta Swap.",
+            "Hold L3, Press Right for Insta Pick Up (works when Interact button is held)."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Display Mod Status",
+        "description": "Check the status of your mods easily.",
+        "category": "script",
+        "steps": [
+            "On Map button press to display mod status."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Rapid Fire Quick Toggle",
+        "description": "Quickly toggle Rapid Fire mode on or off.",
+        "category": "script",
+        "steps": [
+            "Hold L2, Press D-pad Right to turn Rapid Fire On or Off.",
+            "Hold L2, Press D-pad Down to turn Rapid Fire On or Off."
+        ]
+    },
+    {
+        "title": "Sticky Fingers Fortnite: Save Settings",
+        "description": "Ensure your settings are saved for future sessions.",
+        "category": "script",
+        "steps": [
+            "Make sure you save settings by holding R3 and L2."
+        ]
+    }
+]

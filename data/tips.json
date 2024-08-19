@@ -1,0 +1,196 @@
+[
+    {
+        "title": "Error E1",
+        "description": "This error indicates that your device is not being recognized by your PC. Make sure you have installed the correct drivers for your device.",
+        "steps": []
+    },
+    {
+        "title": "Error E2",
+        "description": "This error is related to the USB connection. Try using a different USB cable or port. Ensure the cable is data-capable, not just a charging cable.",
+        "steps": []
+    },
+    {
+        "title": "Error E3",
+        "description": "This error means the device's firmware is outdated. Update the firmware using the latest version from the Cronus website.",
+        "steps": []
+    },
+    {
+        "title": "Error E4",
+        "description": "This error suggests a problem with the power supply. Ensure the device is properly connected to a reliable power source.",
+        "steps": []
+    },
+    {
+        "title": "Error E5",
+        "description": "This error indicates a communication failure between the device and the console. Ensure the console and device are properly connected and restart both devices.",
+        "steps": []
+    },
+    {
+        "title": "Error E6",
+        "description": "This error is related to overheating. Allow the device to cool down and ensure it is placed in a well-ventilated area.",
+        "steps": []
+    },
+    {
+        "title": "Error E7",
+        "description": "This error points to a problem with the device's internal memory. Try resetting the device to factory settings.",
+        "steps": []
+    },
+    {
+        "title": "Error E8",
+        "description": "This error means the device is not receiving enough power. Ensure you are using the correct power adapter and that it is functioning properly.",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Firmware Updates",
+        "description": "Always keep your device's firmware up to date. Check the Cronus website regularly for the latest firmware updates and follow the instructions to install them.",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Proper Connections",
+        "description": "Ensure all cables and connections are secure and properly connected. Loose connections can lead to various errors and performance issues.",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Cooling and Ventilation",
+        "description": "Keep your device in a cool, well-ventilated area to prevent overheating. Overheating can cause performance issues and errors.",
+        "steps": []
+    },
+    {
+        "title": "General Tip: Regular Maintenance",
+        "description": "Perform regular maintenance on your device, such as cleaning the ports and checking for firmware updates, to ensure optimal performance.",
+        "steps": []
+    },
+    {
+        "title": "Hard Reset: Why It's Needed",
+        "description": "A hard reset can resolve various issues with your device, such as firmware glitches, connection problems, or unresponsive behavior. It essentially resets your device to its default state without affecting your stored data.",
+        "steps": []
+    },
+    {
+        "title": "Steps for Hard Reset",
+        "description": "Follow these steps to perform a hard reset on your device.",
+        "steps": [
+            "Disconnect all cables from your device.",
+            "Press and hold the reset button on your device.",
+            "While holding the reset button, reconnect the power cable.",
+            "Continue holding the reset button for about 10 seconds until the device resets."
+        ]
+    },
+    {
+        "title": "Troubleshooting After Hard Reset",
+        "description": "If the device is still not functioning properly after a hard reset, ensure that all connections are secure and the correct firmware is installed. If problems persist, consider contacting support for further assistance.",
+        "steps": []
+    },
+    {
+        "title": "Hard Reset for Cronus Zen",
+        "description": "To perform a hard reset on a Cronus Zen device.",
+        "steps": [
+            "Disconnect all cables from the Zen.",
+            "Hold down the blue reset button.",
+            "While holding the button, reconnect the power cable.",
+            "Release the button after 10 seconds. The Zen will reboot and reset."
+        ]
+    },
+    {
+        "title": "Resetting to Factory Settings",
+        "description": "Resetting your device to factory settings can resolve persistent issues by clearing all configurations and returning the device to its original state. Note that this will erase all custom settings.",
+        "steps": []
+    },
+    {
+        "title": "Important Notes on Hard Reset",
+        "description": "Always ensure your device is powered off before performing a hard reset. Follow the steps carefully to avoid potential damage to your device.",
+        "steps": []
+    },
+    {
+        "title": "Slow Performance",
+        "description": "Is your computer running slow? Try cleaning up your hard drive, uninstalling unnecessary programs, and running a virus scan to improve performance. Regular maintenance can keep your system running smoothly.",
+        "steps": [
+            "Clean up temporary files using Disk Cleanup.",
+            "Uninstall unnecessary programs.",
+            "Run a full virus scan.",
+            "Check for and install any available updates."
+        ]
+    },
+    {
+        "title": "Internet Connectivity Issues",
+        "description": "Having trouble with your internet connection? Restart your router, check your network settings, and ensure your drivers are up to date. Switching to a wired connection can also improve stability.",
+        "steps": [
+            "Restart your router and modem.",
+            "Verify your network settings.",
+            "Update your network drivers.",
+            "Try using a wired connection instead of Wi-Fi."
+        ]
+    },
+    {
+        "title": "Software Crashes",
+        "description": "Is your software crashing frequently? Ensure that your software is updated to the latest version, check for system compatibility, and reinstall if necessary.",
+        "steps": [
+            "Update the software to the latest version.",
+            "Check system requirements and compatibility.",
+            "Reinstall the software.",
+            "Run the program in compatibility mode."
+        ]
+    },
+    {
+        "title": "Overheating",
+        "description": "Is your PC overheating? Clean out dust from your PC, ensure proper ventilation, and consider adding more cooling solutions.",
+        "steps": [
+            "Clean out dust from the interior and fans.",
+            "Ensure the PC is in a well-ventilated area.",
+            "Add additional cooling solutions like fans or liquid cooling."
+        ]
+    },
+    {
+        "title": "Blue Screen of Death (BSOD)",
+        "description": "Encountering a Blue Screen of Death? Note the error code, update your drivers, and check for hardware issues.",
+        "steps": [
+            "Note the BSOD error code.",
+            "Update all drivers.",
+            "Run a memory check using Windows Memory Diagnostic.",
+            "Check for hardware issues like faulty RAM or hard drive."
+        ]
+    },
+    {
+        "title": "Slow Game Performance",
+        "description": "Is your game running slow on your console? Clear your cache, close background applications, and ensure your console is updated.",
+        "steps": [
+            "Clear the console's cache.",
+            "Close any background applications.",
+            "Check for and install system updates."
+        ]
+    },
+    {
+        "title": "Network Connectivity Issues",
+        "description": "Having network issues on your console? Restart your router, check your network settings, and use a wired connection for better stability.",
+        "steps": [
+            "Restart your router and modem.",
+            "Check your console's network settings.",
+            "Use a wired Ethernet connection."
+        ]
+    },
+    {
+        "title": "Disc Reading Errors",
+        "description": "Is your console having trouble reading discs? Clean the disc, ensure it's not scratched, and try another disc to rule out console issues.",
+        "steps": [
+            "Clean the disc with a soft cloth.",
+            "Check for scratches or damage.",
+            "Try a different disc to see if the problem persists."
+        ]
+    },
+    {
+        "title": "Controller Issues",
+        "description": "Controller not responding? Reset the controller, update its firmware, and check the batteries or charging cable.",
+        "steps": [
+            "Reset the controller by pressing the reset button.",
+            "Update the controller's firmware.",
+            "Check and replace the batteries or charging cable."
+        ]
+    },
+    {
+        "title": "Overheating",
+        "description": "Is your console overheating? Ensure it's in a well-ventilated area, clean the vents, and avoid placing it on soft surfaces.",
+        "steps": [
+            "Place the console in a well-ventilated area.",
+            "Clean the vents to remove dust.",
+            "Avoid placing the console on soft surfaces like carpets or beds."
+        ]
+    }
+]
